@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practical12</string>
+
+    <string-array name="myarry">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+    </string-array>
+</resources>
